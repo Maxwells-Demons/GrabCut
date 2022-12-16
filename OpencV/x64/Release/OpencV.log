@@ -1,0 +1,9 @@
+﻿  GrabCut.cpp
+D:\Users\Legion\Desktop\Coding\Task\GrabCut\OpencV\src\GrabCut.cpp(186,85): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\Legion\Desktop\Coding\Task\GrabCut\OpencV\src\GrabCut.cpp(187,87): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  282 of 959 functions (29.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    80 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  OpencV.vcxproj -> D:\Users\Legion\Desktop\Coding\Task\GrabCut\x64\Release\OpencV.exe

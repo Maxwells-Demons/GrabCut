@@ -1,0 +1,4 @@
+﻿  GrabCut.cpp
+D:\Users\Legion\Desktop\Coding\Task\GrabCut-BorderMatting\OpencV\src\GrabCut.cpp(146,86): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\Legion\Desktop\Coding\Task\GrabCut-BorderMatting\OpencV\src\GrabCut.cpp(147,88): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  OpencV.vcxproj -> D:\Users\Legion\Desktop\Coding\Task\GrabCut-BorderMatting\x64\Debug\OpencV.exe
