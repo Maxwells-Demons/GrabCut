@@ -36,6 +36,7 @@
 
 #### 后记
 
-介绍这个算法的[PPT](./document/“GrabCut”— Interactive Foreground Extraction using Iterated Graph Cuts.pdf)和[学习笔记](./document/note.pdf)（可能有点乱）已经附于[document](./document/)文件夹中，希望对后来的你有帮助。
+介绍这个算法的[PPT]("./document/“GrabCut”—%20Interactive%20Foreground%20Extraction%20using%20Iterated%20Graph%20Cuts.pdf")和[学习笔记](./document/note.pdf)（可能有点乱）已经附于[document](./document/)文件夹中，希望对后来的你有帮助。
 
-祝你取得理想的offer。
+
+## 祝你取得理想的offer。
